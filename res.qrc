@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/btnimg/dLastshangyiqu.png</file>
+        <file>image/btnimg/dNextxiayiqu.png</file>
+        <file>image/btnimg/dPausezanting.png</file>
+        <file>image/btnimg/dPlaybofang.png</file>
+        <file>image/btnimg/dsousuo.png</file>
+        <file>image/btnimg/Lastshangyiqu.png</file>
+        <file>image/btnimg/max.png</file>
+        <file>image/btnimg/min.png</file>
+        <file>image/btnimg/Nextxiayiqu.png</file>
+        <file>image/btnimg/Pausezanting.png</file>
+        <file>image/btnimg/Playbofang.png</file>
+        <file>image/btnimg/quit.png</file>
+        <file>image/btnimg/rcibiaoquanyi.png</file>
+        <file>image/btnimg/rLastshangyiqu.png</file>
+        <file>image/btnimg/rNextxiayiqu.png</file>
+        <file>image/btnimg/rPausezanting.png</file>
+        <file>image/btnimg/rPlaybofang.png</file>
+        <file>image/btnimg/rsousuo.png</file>
+        <file>image/btnimg/sousuo.png</file>
+        <file>image/background/bakeground.jpg</file>
+        <file>image/btnimg/ListCycleliebiaoxunhuan.png</file>
+        <file>image/btnimg/Mutejingyin.png</file>
+        <file>image/btnimg/RandomPlaysuijibofang.png</file>
+        <file>image/btnimg/rListCycleliebiaoxunhuan.png</file>
+        <file>image/btnimg/rRandomPlaysuijibofang.png</file>
+        <file>image/btnimg/SingleCycledanquxunhuan.png</file>
+        <file>image/btnimg/Volumeyinliang.png</file>
+        <file>image/btnimg/rsongworld.png</file>
+        <file>image/btnimg/songworld.png</file>
+        <file>image/btnimg/cod.png</file>
+        <file>image/btnimg/logo.png</file>
+        <file>image/background/111.ico</file>
+        <file>image/background/111.png</file>
+        <file>image/btnimg/rSingleCycledanquxunhuan.png</file>
+        <file>image/background/1.jpg</file>
+        <file>image/background/2.jpg</file>
+        <file>image/background/3.jpg</file>
+        <file>image/background/4.jpg</file>
+    </qresource>
+</RCC>
