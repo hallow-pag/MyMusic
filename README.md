@@ -2,9 +2,9 @@
 
 # 页面展示
 
-![img](https://github.com/hallow-pag/MyMusic/raw/master/src/1.png)
+![add img](https://github.com/hallow-pag/MyMusic/raw/master/src/1.png)
 
-![img](https://github.com/hallow-pag/MyMusic/raw/master/src/2.png)
+![add img](https://github.com/hallow-pag/MyMusic/raw/master/src/2.png)
 
 # 组要功能
 
